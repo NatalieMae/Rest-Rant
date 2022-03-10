@@ -1,0 +1,23 @@
+{
+  "name": "rest-rant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalieMae/rest-rant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalieMae/rest-rant/issues"
+  },
+  "homepage": "https://github.com/NatalieMae/rest-rant#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
